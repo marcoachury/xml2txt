@@ -1,3 +1,4 @@
+#!/usr/bin/eui
 -- Extract plain text from document.xlm (from MS Word unzipped file)
 -- Este programa extrae texto plano de un archivo document.xml.
 -- El objetivo es rescatar texto de un archivo docx dañado.
